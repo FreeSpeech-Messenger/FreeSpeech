@@ -34,3 +34,12 @@ git commit -s
 ## Disclaimer
 This software is provided “as is”, without warranty of any kind, express or implied.
 
+---
+# FREESPEECH - Messenger
+
+**FreeSpeech messenger** is a peer-to-peer application that allows communications directly device-to-device. Your data are YOURS, they can be hosted localy or in your VPS. Everything is encrypted and stored in a DHT (Distributed Hash Table).
+
+### What do you need
+There is 2 modules :
+- **FreeSpeech** : The User App : can be used as it (You can download the executable file here)
+- **VPS-Storage-server** : The Storage App : used for VPS storage (You can download the executable file here)
