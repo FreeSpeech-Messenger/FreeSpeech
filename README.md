@@ -26,10 +26,11 @@ By submitting a contribution, you agree that your contributions will be licensed
 **Please ensure that:** You have the right to submit the code.
 The contribution does not include proprietary or incompatible licensed material.
 
-## Disclaimer
-This software is provided “as is”, without warranty of any kind, express or implied.
-
 ## Contributors
 We use the Developer Certificate of Origin (DCO).
 To contribute:
 git commit -s
+
+## Disclaimer
+This software is provided “as is”, without warranty of any kind, express or implied.
+
